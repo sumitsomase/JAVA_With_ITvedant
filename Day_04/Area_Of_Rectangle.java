@@ -1,6 +1,8 @@
+package Day_04;
 import java.util.*;
 
-public class Demo{
+
+public class Area_Of_Rectangle {
     public static void main(String[]args)
     {
         Scanner sc=new Scanner(System.in);
@@ -25,6 +27,8 @@ public class Demo{
         }
 
         System.out.println("Thank you");
+
+        sc.close();
 
     }
 }
