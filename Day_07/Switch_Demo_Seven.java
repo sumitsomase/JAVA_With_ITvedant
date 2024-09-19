@@ -16,7 +16,7 @@ public class Switch_Demo_Seven {
 
     
 
-    System.out.println("Enter your choice: + , - , * , / ");
+    System.out.println("Enter your choice: \n +  \n - \n * \n / ");
                        
     char choice=sc.next().charAt(0);
 
