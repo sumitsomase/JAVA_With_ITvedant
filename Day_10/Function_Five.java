@@ -34,7 +34,12 @@ public class Function_Five {
 	double avgPer=totalPer/2;
     System.out.println("Average Per : "+avgPer);
 
+
+	
+
     return avgPer;
+
+	
 	
     }
 
